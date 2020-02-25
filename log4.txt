@@ -1,0 +1,665 @@
+Thread id: 1 ExeStack:
+int a int b log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+int a int b
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+int a int b
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+int b
+int a
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+int b
+int a
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+int b
+Symbol Table:
+a --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+int b
+Symbol Table:
+a --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+log2.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+log2.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read b from log2.txt Print(a) Print(b)  close log6.txt
+ read a from log2.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read b from log2.txt Print(a) Print(b)  close log6.txt
+ read a from log2.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read b from log2.txt Print(a) Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read b from log2.txt Print(a) Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(a) Print(b)  close log6.txt
+ read b from log2.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(a) Print(b)  close log6.txt
+ read b from log2.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(a) Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(a) Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(b)  close log6.txt
+Print(a)
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(b)  close log6.txt
+Print(a)
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+0
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+0
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ close log6.txt
+Print(b)
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+0
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ close log6.txt
+Print(b)
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+0
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+0
+0
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+0
+0
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+0
+0
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int a int b log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int a int b log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int a int b log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+int a int b
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+int a int b
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+int b
+int a
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+int b
+int a
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+int b
+Symbol Table:
+a --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+int b
+Symbol Table:
+a --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+log2.txt  read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+log2.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+log2.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read a from log2.txt  read b from log2.txt Print(a) Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read b from log2.txt Print(a) Print(b)  close log6.txt
+ read a from log2.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read b from log2.txt Print(a) Print(b)  close log6.txt
+ read a from log2.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read b from log2.txt Print(a) Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read b from log2.txt Print(a) Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(a) Print(b)  close log6.txt
+ read b from log2.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(a) Print(b)  close log6.txt
+ read b from log2.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(a) Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(a) Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(b)  close log6.txt
+Print(a)
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(b)  close log6.txt
+Print(a)
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+0
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(b)  close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+0
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+ close log6.txt
+Print(b)
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+0
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+ close log6.txt
+Print(b)
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+0
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+ close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+0
+0
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+ close log6.txt
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+0
+0
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 0
+b --> 0
+Out:
+0
+0
+File table:
+log2.txt --> java.io.BufferedReader@7bcdd4ea
+
+Heap:
+

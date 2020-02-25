@@ -1,0 +1,701 @@
+Thread id: 1 ExeStack:
+bool a int v a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v a=true (If a Then v=2 Else v=3) Print(v)
+bool a
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v a=true (If a Then v=2 Else v=3) Print(v)
+bool a
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+a=true (If a Then v=2 Else v=3) Print(v)
+int v
+Symbol Table:
+a --> true
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+a=true (If a Then v=2 Else v=3) Print(v)
+int v
+Symbol Table:
+a --> true
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then v=2 Else v=3) Print(v)
+a=true
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then v=2 Else v=3) Print(v)
+a=true
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+(If a Then v=2 Else v=3)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+(If a Then v=2 Else v=3)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+v=2
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+v=2
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+a --> true
+v --> 2
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+a --> true
+v --> 2
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> true
+v --> 2
+Out:
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+bool a int v a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v a=true (If a Then v=2 Else v=3) Print(v)
+bool a
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v a=true (If a Then v=2 Else v=3) Print(v)
+bool a
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+a=true (If a Then v=2 Else v=3) Print(v)
+int v
+Symbol Table:
+a --> true
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+a=true (If a Then v=2 Else v=3) Print(v)
+int v
+Symbol Table:
+a --> true
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then v=2 Else v=3) Print(v)
+a=true
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then v=2 Else v=3) Print(v)
+a=true
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+(If a Then v=2 Else v=3)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+(If a Then v=2 Else v=3)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+v=2
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+v=2
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+a --> true
+v --> 2
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+a --> true
+v --> 2
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> true
+v --> 2
+Out:
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+bool a int v a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v a=true (If a Then v=2 Else v=3) Print(v)
+bool a
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v a=true (If a Then v=2 Else v=3) Print(v)
+bool a
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v a=true (If a Then v=2 Else v=3) Print(v)
+bool a
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+a=true (If a Then v=2 Else v=3) Print(v)
+int v
+Symbol Table:
+a --> true
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+a=true (If a Then v=2 Else v=3) Print(v)
+int v
+Symbol Table:
+a --> true
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+a=true (If a Then v=2 Else v=3) Print(v)
+int v
+Symbol Table:
+a --> true
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+a=true (If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then v=2 Else v=3) Print(v)
+a=true
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then v=2 Else v=3) Print(v)
+a=true
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then v=2 Else v=3) Print(v)
+a=true
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then v=2 Else v=3) Print(v)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+(If a Then v=2 Else v=3)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+(If a Then v=2 Else v=3)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+(If a Then v=2 Else v=3)
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+v=2
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+v=2
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+v=2
+Symbol Table:
+a --> true
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+a --> true
+v --> 2
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+a --> true
+v --> 2
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+a --> true
+v --> 2
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> true
+v --> 2
+Out:
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> true
+v --> 2
+Out:
+2
+File table:
+
+Heap:
+

@@ -1,0 +1,10773 @@
+Thread id: 1 ExeStack:
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 Model.Statement.CallStmt@584cf1be Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 Model.Statement.CallStmt@584cf1be
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 Model.Statement.CallStmt@584cf1be
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Model.Statement.CallStmt@584cf1be
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+v=a+b Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+v=a+b Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+} int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+} Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Procedure sum ([a, b]) {
+v=a+b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Procedure product ([a, b]) {
+v=a*b Print(v)
+}
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+ExeStack:
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+ExeStack:
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+ExeStack:
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+int v int w v=2 w=5
+Symbol Table:
+ExeStack:
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+int v int w v=2 w=5
+Symbol Table:
+ExeStack:
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+int v int w v=2
+Symbol Table:
+ExeStack:
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+int v int w v=2
+Symbol Table:
+ExeStack:
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int v int w
+Symbol Table:
+ExeStack:
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int v int w
+Symbol Table:
+ExeStack:
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+ExeStack:
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+ExeStack:
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+ExeStack:
+v --> 0
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+ExeStack:
+v --> 0
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+ExeStack:
+v --> 0
+w --> 0
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+ExeStack:
+v --> 0
+w --> 0
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+ExeStack:
+v --> 2
+w --> 0
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+ExeStack:
+v --> 2
+w --> 0
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+ExeStack:
+v --> 2
+w --> 5
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+ExeStack:
+v --> 2
+w --> 5
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+v=a+b Print(v)
+Symbol Table:
+ExeStack:
+v --> 2
+w --> 5
+
+a --> 20
+b --> 5
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+v=a+b Print(v)
+Symbol Table:
+ExeStack:
+v --> 2
+w --> 5
+
+a --> 20
+b --> 5
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+ExeStack:
+v --> 2
+w --> 5
+
+a --> 20
+b --> 5
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+ExeStack:
+v --> 2
+w --> 5
+
+a --> 20
+b --> 5
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+ExeStack:
+v --> 2
+w --> 5
+
+a --> 20
+b --> 5
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+ExeStack:
+v --> 2
+w --> 5
+
+a --> 20
+b --> 5
+
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+int v v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+int v v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+int v v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+int v v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+int v
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+int v
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+v --> 25
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+v --> 25
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Symbol Table:
+a --> 20
+b --> 5
+v --> 25
+Out:
+25
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Return
+Symbol Table:
+a --> 20
+b --> 5
+v --> 25
+Out:
+25
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v int w v=2 w=5 call sum [v*10, w]
+ Print(v) fork(call product [v, w]
+)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+int v v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+int v v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Print(v)
+int v v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Print(v)
+int v v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Print(v)
+v=a+b
+int v
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Print(v)
+v=a+b
+int v
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+v --> 25
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+v --> 25
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Symbol Table:
+a --> 20
+b --> 5
+v --> 25
+Out:
+25
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Symbol Table:
+a --> 20
+b --> 5
+v --> 25
+Out:
+25
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+call product [v, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+call product [v, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+int v v=a*b Print(v)
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+int v v=a*b Print(v)
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Print(v)
+int v v=a*b
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Print(v)
+int v v=a*b
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Print(v)
+v=a*b
+int v
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Print(v)
+v=a*b
+int v
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+v --> 0
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Print(v)
+v=a*b
+Symbol Table:
+a --> 2
+b --> 5
+v --> 0
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+v --> 0
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Print(v)
+v=a*b
+Symbol Table:
+a --> 2
+b --> 5
+v --> 0
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+v --> 10
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Print(v)
+Symbol Table:
+a --> 2
+b --> 5
+v --> 10
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+v --> 10
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Print(v)
+Symbol Table:
+a --> 2
+b --> 5
+v --> 10
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+v --> 10
+Out:
+25
+2
+10
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Symbol Table:
+a --> 2
+b --> 5
+v --> 10
+Out:
+25
+2
+10
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+v --> 10
+Out:
+25
+2
+10
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Symbol Table:
+a --> 2
+b --> 5
+v --> 10
+Out:
+25
+2
+10
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+10
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+10
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v int w v=2 w=5 call sum [v*10, w]
+ Print(v) fork(call product [v, w]
+)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+int v v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+int v v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Print(v)
+int v v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Print(v)
+int v v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Print(v)
+v=a+b
+int v
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Print(v)
+v=a+b
+int v
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Print(v)
+v=a+b
+Symbol Table:
+a --> 20
+b --> 5
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+v --> 25
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+v --> 25
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Symbol Table:
+a --> 20
+b --> 5
+v --> 25
+Out:
+25
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+Symbol Table:
+a --> 20
+b --> 5
+v --> 25
+Out:
+25
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+call product [v, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+call product [v, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+int v v=a*b Print(v)
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+int v v=a*b Print(v)
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Print(v)
+int v v=a*b
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Print(v)
+int v v=a*b
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Print(v)
+v=a*b
+int v
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Print(v)
+v=a*b
+int v
+Symbol Table:
+a --> 2
+b --> 5
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+v --> 0
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Print(v)
+v=a*b
+Symbol Table:
+a --> 2
+b --> 5
+v --> 0
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+v --> 0
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Print(v)
+v=a*b
+Symbol Table:
+a --> 2
+b --> 5
+v --> 0
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+v --> 10
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Print(v)
+Symbol Table:
+a --> 2
+b --> 5
+v --> 10
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+v --> 10
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Print(v)
+Symbol Table:
+a --> 2
+b --> 5
+v --> 10
+Out:
+25
+2
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+v --> 10
+Out:
+25
+2
+10
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Symbol Table:
+a --> 2
+b --> 5
+v --> 10
+Out:
+25
+2
+10
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 2
+b --> 5
+v --> 10
+Out:
+25
+2
+10
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Return
+Symbol Table:
+a --> 2
+b --> 5
+v --> 10
+Out:
+25
+2
+10
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+10
+File table:
+
+Heap:
+
+Thread id: 2 ExeStack:
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+25
+2
+10
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+int v int w v=2 w=5 call sum [v*10, w]
+ Print(v) fork(call product [v, w]
+)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+int v int w v=2 w=5 call sum [v*10, w]
+ Print(v)
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+int v int w v=2 w=5 call sum [v*10, w]
+
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+int v int w v=2 w=5
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+int v int w v=2
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int v int w
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+int v
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+int w
+Symbol Table:
+v --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+v=2
+Symbol Table:
+v --> 0
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+w=5
+Symbol Table:
+v --> 2
+w --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+call sum [v*10, w]
+
+Symbol Table:
+v --> 2
+w --> 5
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+fork(call product [v, w]
+)
+Print(v)
+Return
+int v v=a+b Print(v)
+Symbol Table:
+a --> 20
+b --> 5
+Out:
+File table:
+
+Heap:
+

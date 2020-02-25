@@ -1,0 +1,255 @@
+Thread id: 1 ExeStack:
+int a log1.txt  read a from log1.txt Print(a) (If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read a from log1.txt Print(a) (If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+int a log1.txt
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read a from log1.txt Print(a) (If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+int a log1.txt
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read a from log1.txt Print(a) (If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+log1.txt
+int a
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read a from log1.txt Print(a) (If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+log1.txt
+int a
+Symbol Table:
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read a from log1.txt Print(a) (If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+log1.txt
+Symbol Table:
+a --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read a from log1.txt Print(a) (If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+log1.txt
+Symbol Table:
+a --> 0
+Out:
+File table:
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read a from log1.txt Print(a) (If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+Symbol Table:
+a --> 0
+Out:
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
+Thread id: 1 ExeStack:
+ read a from log1.txt Print(a) (If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+Symbol Table:
+a --> 0
+Out:
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(a) (If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+ read a from log1.txt
+Symbol Table:
+a --> 0
+Out:
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(a) (If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+ read a from log1.txt
+Symbol Table:
+a --> 0
+Out:
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(a) (If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+Symbol Table:
+a --> 0
+Out:
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
+Thread id: 1 ExeStack:
+Print(a) (If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+Symbol Table:
+a --> 0
+Out:
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+Print(a)
+Symbol Table:
+a --> 0
+Out:
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+Print(a)
+Symbol Table:
+a --> 0
+Out:
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+Symbol Table:
+a --> 0
+Out:
+0
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
+Thread id: 1 ExeStack:
+(If a Then  read a from log1.txt Print(a) Else Print(0))  close log1.txt
+Symbol Table:
+a --> 0
+Out:
+0
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
+Thread id: 1 ExeStack:
+ close log1.txt
+(If a Then  read a from log1.txt Print(a) Else Print(0))
+Symbol Table:
+a --> 0
+Out:
+0
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
+Thread id: 1 ExeStack:
+ close log1.txt
+(If a Then  read a from log1.txt Print(a) Else Print(0))
+Symbol Table:
+a --> 0
+Out:
+0
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
+Thread id: 1 ExeStack:
+ close log1.txt
+Print(0)
+Symbol Table:
+a --> 0
+Out:
+0
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
+Thread id: 1 ExeStack:
+ close log1.txt
+Print(0)
+Symbol Table:
+a --> 0
+Out:
+0
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
+Thread id: 1 ExeStack:
+ close log1.txt
+Symbol Table:
+a --> 0
+Out:
+0
+0
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
+Thread id: 1 ExeStack:
+ close log1.txt
+Symbol Table:
+a --> 0
+Out:
+0
+0
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
+Thread id: 1 ExeStack:
+Symbol Table:
+a --> 0
+Out:
+0
+0
+File table:
+log1.txt --> java.io.BufferedReader@69eb089e
+
+Heap:
+
